@@ -1,0 +1,387 @@
+<HTML>
+<HEAD>
+<TITLE>TABLE</TITLE>
+</HEAD>
+<BODY BGCOLOR="RED"TEXT="BLACK">
+<TABLE BORDER="2">
+<ALIGN="CENTER"BGCOLOR="WHITE>
+<TR>
+   <TD>ROLL NO</TD>
+   <TD>NAME</TD>
+   <TD>COURSE</TD>
+   <TD>MARK</TD>
+   <TD>PASS/FAIL</TD>
+</TR>
+<TR>
+   <TD>1</TD>
+   <TD>ANU</TD>
+   <TD>BCA</TD>
+   <TD>92</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>2</TD>
+   <TD>SAGAR</TD>
+   <TD>BSC</TD>
+   <TD>64</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>3</TD>
+   <TD>MANU</TD>
+   <TD>BCOM</TD>
+   <TD>80</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>4</TD>
+   <TD>SANEESH</TD>
+   <TD>BCA</TD>
+   <TD>74</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>5</TD>
+   <TD>VISHNU</TD>
+   <TD>BCA</TD>
+   <TD>22</TD>
+   <TD>FAIL</TD>
+</TR>
+<TR>
+   <TD>6</TD>
+   <TD>BADRINATH</TD>
+   <TD>BCOM</TD>
+   <TD>98</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>7</TD>
+   <TD>ANNA</TD>
+   <TD>BSC</TD>
+   <TD>45</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>8</TD>
+   <TD>VAISHNAV</TD>
+   <TD>BCOM</TD>
+   <TD>56</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>9</TD>
+   <TD>HEMA</TD>
+   <TD>BCA</TD>
+   <TD>66</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>10</TD>
+   <TD>SARA</TD>
+   <TD>BSC</TD>
+   <TD>34</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>11</TD>
+   <TD>MANEESH</TD>
+   <TD>BCOM</TD>
+   <TD>88</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>12</TD>
+   <TD>SANIL</TD>
+   <TD>BSC</TD>
+   <TD>70</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>13</TD>
+   <TD>VIMAL</TD>
+   <TD>BCA</TD>
+   <TD>21</TD>
+   <TD>FAIL</TD>
+</TR>
+<TR>
+   <TD>14</TD>
+   <TD>SABARINATH</TD>
+   <TD>BSC</TD>
+   <TD>19</TD>
+   <TD>FAIL</TD>
+</TR>
+<TR>
+   <TD>15</TD>
+   <TD>HARSHA</TD>
+   <TD>BCOM</TD>
+   <TD>19</TD>
+   <TD>FAIL</TD>
+</TR>
+<TR>
+   <TD>16</TD>
+   <TD>NAKUL</TD>
+   <TD>BCOM</TD>
+   <TD>39</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>16</TD>
+   <TD>SANU</TD>
+   <TD>BCA</TD>
+   <TD>78</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>17</TD>
+   <TD>SAGARIGA</TD>
+   <TD>BSC</TD>
+   <TD>89</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>18</TD>
+   <TD>MANYA</TD>
+   <TD>BCOM</TD>
+   <TD>83</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>19</TD>
+   <TD>MOHAN</TD>
+   <TD>BCA</TD>
+   <TD>70</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>20</TD>
+   <TD>VISHAL</TD>
+   <TD>BCOM</TD>
+   <TD>28</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>21</TD>
+   <TD>JISMI</TD>
+   <TD>BCOM</TD>
+   <TD>91</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>22</TD>
+   <TD>ANEESH</TD>
+   <TD>BSC</TD>
+   <TD>67</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>23</TD>
+   <TD>AISWARYA</TD>
+   <TD>BCA</TD>
+   <TD>39</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>24</TD>
+   <TD>RESHMA</TD>
+   <TD>BSC</TD>
+   <TD>81</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>25</TD>
+   <TD>SAMUEL</TD>
+   <TD>BSC</TD>
+   <TD>50</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>26</TD>
+   <TD>SURESH</TD>
+   <TD>BCOM</TD>
+   <TD>10</TD>
+   <TD>FAIL</TD>
+</TR>
+<TR>
+   <TD>27</TD>
+   <TD>ANIL</TD>
+   <TD>BSC</TD>
+   <TD>48</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>28</TD>
+   <TD>IMANUEL</TD>
+   <TD>BCA</TD>
+   <TD>29</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>29</TD>
+   <TD>MEENU</TD>
+   <TD>BSC</TD>
+   <TD>59</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>30</TD>
+   <TD>HAREESH</TD>
+   <TD>BCOM</TD>
+   <TD>92</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>31</TD>
+   <TD>SARANYA</TD>
+   <TD>BSC</TD>
+   <TD>46</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>32</TD>
+   <TD>ABHINAV</TD>
+   <TD>BCOM</TD>
+   <TD>74</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>33</TD>
+   <TD>BASIL</TD>
+   <TD>BSC</TD>
+   <TD>73</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>34</TD>
+   <TD>BESLIN</TD>
+   <TD>BCA</TD>
+   <TD>88</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>35</TD>
+   <TD>KIRAN</TD>
+   <TD>BSC</TD>
+   <TD>55</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>36</TD>
+   <TD>GOKUL</TD>
+   <TD>BCOM</TD>
+   <TD>20</TD>
+   <TD>FAIL</TD>
+</TR>
+<TR>
+   <TD>37</TD>
+   <TD>NAKULAN</TD>
+   <TD>BCOM</TD>
+   <TD>95</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>38</TD>
+   <TD>SABU</TD>
+   <TD>BCA</TD>
+   <TD>77</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>39</TD>
+   <TD>SAMANTHA</TD>
+   <TD>BSC</TD>
+   <TD>67</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>40</TD>
+   <TD>MERIN</TD>
+   <TD>BCOM</TD>
+   <TD>74</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>40</TD>
+   <TD>MURALI</TD>
+   <TD>BCA</TD>
+   <TD>79</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>41</TD>
+   <TD>VEENA</TD>
+   <TD>BCOM</TD>
+   <TD>84</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>42</TD>
+   <TD>MELVIN</TD>
+   <TD>BCOM</TD>
+   <TD>38</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>42</TD>
+   <TD>SUDHAKAR</TD>
+   <TD>BSC</TD>
+   <TD>60</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>43</TD>
+   <TD>ARYA</TD>
+   <TD>BCA</TD>
+   <TD>96</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>44</TD>
+   <TD>REMYA</TD>
+   <TD>BSC</TD>
+   <TD>24</TD>
+   <TD>FAIL</TD>
+</TR>
+<TR>
+   <TD>45</TD>
+   <TD>SABU</TD>
+   <TD>BSC</TD>
+   <TD>53</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>46</TD>
+   <TD>SUMITH</TD>
+   <TD>BCOM</TD>
+   <TD>60</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>47</TD>
+   <TD>SHANIL</TD>
+   <TD>BSC</TD>
+   <TD>40</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>48</TD>
+   <TD>ISSAC</TD>
+   <TD>BCA</TD>
+   <TD>86</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>49</TD>
+   <TD>NEENU</TD>
+   <TD>BSC</TD>
+   <TD>51</TD>
+   <TD>PASS</TD>
+</TR>
+<TR>
+   <TD>50</TD>
+   <TD>MIDHILA</TD>
+   <TD>BCOM</TD>
+   <TD>47</TD>
+   <TD>PASS</TD>
+</TR>
+</BODY>
+</HTML>
